@@ -6,6 +6,7 @@ Also, `UITextView` doesn’t support placeholders. This component solves both pr
 automatically expanding up to a set height.
 
 ## Screenshots
+![AppScreenshot](https://github.com/user-attachments/assets/db55886f-1aae-4186-89b7-72373e69b168)
 
 
 ## Table of Contents
@@ -18,7 +19,7 @@ automatically expanding up to a set height.
 ## Features
 
 - Custom `TextViewWrapper` to integrate `UITextView` into SwiftUI.
-- `GrowingTextInputView` that supports placeholders and dynamic height adjustment.
+- `MultilineTextInputView` that supports placeholders and dynamic height adjustment.
 - `ChatView` to display messages in a chat-like interface.
 
 ## Project Structure
@@ -26,20 +27,20 @@ automatically expanding up to a set height.
 - **TextViewWrapper**: A `UIViewRepresentable` that wraps `UITextView` for use in SwiftUI.
 - **MultilineTextInputView**: A SwiftUI view that uses `TextViewWrapper` to provide a text input field with 
   placeholder support and dynamic height adjustment.
-- **ChatView**: A SwiftUI view that displays a list of messages and includes the `GrowingTextInputView` for 
+- **ChatView**: A SwiftUI view that displays a list of messages and includes the `MultilineTextInputView` for 
   message input.
 
 ## Installation
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/MultilineTextViewChatView.git
-   cd MultilineTextViewChatView
+   git clone https://github.com/mohitDhami87/SwiftUI-MultilineTextView_ChatView.git
+   cd SwiftUI-MultilineTextView_ChatView
    ```
 
 2. **Open in Xcode**:
    ```bash
-   open MultilineTextView_ChatView.xcodeproj
+   open SwiftUI-MultilineTextView_ChatView.xcodeproj
    ```
 
 3. **Build and Run**:
