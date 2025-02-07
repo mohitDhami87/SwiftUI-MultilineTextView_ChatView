@@ -6,7 +6,7 @@ Also, `UITextView` doesn’t support placeholders. This component solves both pr
 automatically expanding up to a set height.
 
 ## Screenshots
-![AppScreenshot](https://github.com/user-attachments/assets/db55886f-1aae-4186-89b7-72373e69b168)
+![AppScreeshot](https://github.com/user-attachments/assets/02042ea9-9ea0-43a2-b069-7e8ab228002d)
 
 
 ## Table of Contents
